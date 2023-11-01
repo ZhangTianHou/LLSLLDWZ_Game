@@ -37,7 +37,7 @@ public class Character : MonoBehaviour
 
     [SerializeField] private float speed = 1;
 
-    private string animStateDir;
+    private string animStateDir = "F";
 
     private Rigidbody2D RB => transform.Get(ref rb); private Rigidbody2D rb;
     private Animator Anim => transform.Get(ref anim); private Animator anim;

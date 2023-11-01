@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: MapBack
+    uniqueID: 845651875
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MapFore
+    uniqueID: 2048286235
     locked: 0
